@@ -188,12 +188,12 @@ footer {
 	float: left;
 }
 footer .footer_column h3 {
-	color: #B3B3B3;
+	color: #060606;
 	text-align: center;
 }
 footer .footer_column p {
-	color: #717070;
-	background-color: #FFFFFF;
+	color: #000000;
+	background-color: #FFF0FFF;
 }
 .cards {
 	width: 100%;
@@ -247,7 +247,7 @@ footer .footer_column p {
 	border-top-width: 2px;
 }
 .footer_banner {
-	background-color: #B3B3B3;
+	background-color: #000000;
 	padding-top: 60px;
 	padding-bottom: 60PX;
 	margin-bottom: 0px;
